@@ -75,8 +75,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 **NYC Yellow Taxi Dashboard** adalah aplikasi analitik berbasis web yang menampilkan data perjalanan taksi di New York City menggunakan **React.js, Express.js, Leaflet.js, dan Chart.js**.  
 
 🚀 **Live Demo**:  
-- **Frontend**: [https://nyc-taxi-frontend.vercel.app](https://nyc-taxi-frontend.vercel.app)  
-- **Backend API**: [https://back-end-nyc-taxi.vercel.app/api/trips](back-end-nyc-taxi.vercel.app/api/trips)  
+- **Frontend**: [https://front-end-nyc-taxi.vercel.app](https://front-end-nyc-taxi.vercel.app/)  
+- **Backend API**: [https://back-end-nyc-taxi.vercel.app/api/trips](https://back-end-nyc-taxi.vercel.app/api/trips)  
 
 ## 📥 Instalasi & Menjalankan Secara Lokal  
 ```sh
